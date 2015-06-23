@@ -1,0 +1,19 @@
+# Site settings
+title: Getting things done with Couchbase
+email: no.email@nodomain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This blog will host various useful tricks for getting things done 
+  with Couchbase. It will include administration, deployment, N1QL, MapReduce
+  as well as anything else that might be found useful by the Couchbase
+  community.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://simonleigh.github.io" # the base hostname & protocol for your site
+twitter_username: simonleigh0x01
+github_username:  simonleigh
+
+# Build settings
+markdown: redcarpet
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
