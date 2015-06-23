@@ -9,4 +9,4 @@ The following directories and their contents are Copyright Simon Leigh. You may 
 * _posts/
 * images/
 
-All other directories and files are MIT Licensed. If you do use them, a link back to http://github.com/mojombo/jekyll is appreciated, but is not required.
+All other directories and files are MIT Licensed. If you do use them, a link back to http://github.com/mojombo/jekyll is appreciated by the author of Jekyll, but is not required.
