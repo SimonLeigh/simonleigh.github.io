@@ -7,7 +7,7 @@ categories: [document design, noaa, spatial]
 
 It's been some time since my last blog post so I thought that I would add a quick entry to describe the data model for the Spatial demo that I often do at meet-ups and other events.
 
-Let's consider the NOAA ISH/ISD dataset. It includes samples of weather (temp/pressure/wind speed/etc.) for the entire planet down to in some cases, more frequently than hourly measurements: 
+Let's consider the NOAA ISH/ISD dataset. It includes samples of weather (temp/pressure/wind speed/etc.) for the entire planet in at least hourly intervals: 
 
 > The Integrated Surface Database (ISD) consists of global hourly and synoptic observations compiled from numerous sources into a single common ASCII format and common data model. ISD was developed as a joint activity within Asheville's Federal Climate Complex. NCEI, with U.S. Air Force and Navy partners, began the effort in 1998 with the assistance of external funding from several sources. ISD integrates data from over 100 original data sources, including numerous data formats that were key-entered from paper forms during the 1950s–1970s time frame.
 
