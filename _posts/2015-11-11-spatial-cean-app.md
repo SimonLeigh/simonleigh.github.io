@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Spatial Web App - Part 1"
-date: 2015-11-11
+date: 2015-11-11 00:10
 categories: [cean, angularjs, couchbase, expressjs, node.js, noaa, spatial]
 ---
 
