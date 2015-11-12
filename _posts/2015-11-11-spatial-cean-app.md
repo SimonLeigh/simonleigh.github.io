@@ -15,7 +15,7 @@ In this introductory blog, I'm going to introduce the dataset I chose and the ap
 
 I wanted data that could be easily understood by anyone. Given that I am British and we are notorious for complaining about the weather, that was my first port of call!
 
-<div style="text-align:center"><img src ="http://imgs.xkcd.com/comics/weather.png" alt="XKCD Weather"/></div>
+<div style="text-align:center"><img src ="http://imgs.xkcd.com/comics/weather.png" alt="XKCD Weather" title="At least if you&#39;re really into, like, Turkish archaeology, store clerks aren&#39;t like &#39;hey, how &#39;bout those Derinkuyu underground cities!&#39; when they&#39;re trying to be polite."/></div>
 
 In the end I discovered the amazing NOAA ISH/ISD dataset. The NOAA is the US National Oceanic and Atmospheric Administration. The dataset includes samples of weather (temp/pressure/wind speed/etc.) for the entire planet in at least hourly intervals.
 
@@ -29,6 +29,8 @@ Once I had decided on the dataset it was time to identify what I wanted to imple
 
 >1. Is the claim is legitimate? I.e. Did the weather at that time match the stated conditions?
 2. Does the pricing of the risk need to be reassessed in that area based on historic and current climactic conditions?
+
+
 
 
 
