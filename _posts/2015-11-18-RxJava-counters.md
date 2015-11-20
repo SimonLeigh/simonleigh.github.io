@@ -13,7 +13,7 @@ It's easy enough to create or increment these counters:
 
 ```java
 
-bucket.async().counter(docType + "::Count", 1, 1) 
+bucket.async().counter(docType + "::Count", 1, 1);
 
 ```
 When you come to read the counter though, if you try and do a standard:
@@ -31,7 +31,7 @@ If we KNOW that we are getting a counter we should use the different method sign
 ```java
 
 bucket.async()
-	.get(docType + "::Count", JsonLongDocument.class)
+	.get(docType + "::Count", JsonLongDocument.class);
 
 ```
 
