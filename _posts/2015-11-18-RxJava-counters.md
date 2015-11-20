@@ -31,7 +31,7 @@ If we KNOW that we are getting a counter we should use the different method sign
 ```java
 
 bucket.async()
-	.get("Registration::" + someReg + "::docCount", JsonLongDocument.class)
+	.get(docType + "::docCount", JsonLongDocument.class)
 
 ```
 
