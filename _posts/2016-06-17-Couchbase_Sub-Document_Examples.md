@@ -12,7 +12,7 @@ categories: [couchbase, python, sub-document]
 
 # An introduction to the Couchbase sub-document API in Python
 
-***Download this notebook (to execute the code for yourself!) [here](https://github.com/SimonLeigh/JupyterNotebooks/blob/master/Couchbase%20Sub-Document%20Examples.ipynb).***
+***Download this notebook (to execute the code for yourself!) [here](https://github.com/SimonLeigh/JupyterNotebooks/blob/master/Couchbase_Sub-Document_Examples.ipynb).***
 
 
 In this notebook I will explore the usage of the Couchbase Key/Value and sub-document APIs in the Python SDK 2.x in order to highlight the similarities and differences between them.
